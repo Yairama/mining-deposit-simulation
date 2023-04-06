@@ -26,6 +26,5 @@ For this we used a Gaussian simulation (which is not correct and should be corre
 ### Alter
 ![grades](https://user-images.githubusercontent.com/45445692/230243803-d75b8f64-5075-48c5-b804-d9eeae45736d.png "grades")
 
-## Warning: Uno de los objetivos a corregir es que la simulacion es de tipo Gaussiana (normal) lo que no es algo real, es necesario reenfocar la simulacion para poder tener una distribución sesgada a la izquierda, donde la moda es menor a la mediana, y esta a su vez menor que la media.
-
+## Warning: One of the objectives to correct is that the simulation is of Gaussian type (normal) which is not real, it is necessary to refocus the simulation to have a distribution skewed to the left, where the mode is less than the median, and this in turn less than the mean.
 Hope you enjoy this project and feel free to contribute with suggestions and improvements. Thanks for your interest!
